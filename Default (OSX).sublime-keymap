@@ -1,0 +1,12 @@
+[
+	{ "keys": ["option+shift+space"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+	{ "keys": ["super+v"], "command": "paste_and_indent" }, 
+	{ "keys": ["super+shift+v"], "command": "paste" },
+	{ "keys": ["enter"], "command": "insert_snippet", "args": {"contents": "\n\t$0\n"}, "context":
+	    [
+	        { "key": "setting.auto_indent", "operator": "equal", "operand": true },
+	        { "key": "selector", "operator": "equal", "operand": "meta.scope.between-tag-pair", "match_all": true },
+	        { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+	    ]
+	}
+]

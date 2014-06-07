@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>4676FC6D-6227-11D9-BFB1-000D93589AF6</string>
+	<key>content</key>
+	<string>&lt;ul&gt;
+	&lt;li&gt;&lt;a href=""&gt;Lorem&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=""&gt;Aliquam&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=""&gt;Morbi&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=""&gt;Praesent&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=""&gt;Pellentesque&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</string>
+	<key>name</key>
+	<string>Lipsum: UL (Navigation)</string>
+	<key>tabTrigger</key>
+	<string>lorem</string>
+	<key>uuid</key>
+	<string>D433AD0E-E447-46C3-BE25-2EB1B2431C6E</string>
+</dict>
+</plist>

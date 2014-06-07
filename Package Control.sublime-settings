@@ -1,0 +1,9 @@
+{
+	"http_proxy": "proxy.us.dominos.com:8080",
+	"installed_packages":
+	[
+		"CodeFormatter",
+		"Handlebars",
+		"PackageResourceViewer"
+	]
+}

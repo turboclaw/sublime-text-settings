@@ -1,0 +1,11 @@
+{
+	"codeformatter_js_options": {
+		"indent_with_tabs": true
+	},
+	"codeformatter_css_options": {
+		"indent_with_tabs": true
+	},
+	"codeformatter_html_options": {
+		"indent_with_tabs": true
+	}
+}
